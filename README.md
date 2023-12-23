@@ -5,5 +5,5 @@ This initial notebook also provides code for converting labels from the geojson 
 
 The notebook begins with mounting Google Drive, and thereafter, each code snippet is prepared for testing with cloud-based data.
 
-Those who are interested can also use the map in the [link]([http://xviewdataset.org/](https://dilsadunsal.github.io/xview_du/)) to see the distribution of images from which samples of the Xview dataset are taken.
+Those who are interested can also use the map in the [link](https://dilsadunsal.github.io/xview_du/) to see the distribution of images from which samples of the Xview dataset are taken.
 
