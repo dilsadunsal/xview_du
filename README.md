@@ -1,6 +1,6 @@
 # xView Dataset Image and Label Extraction
 
-The primary aim of this repository is simplify the extraction of images and their corresponding labels from the xView dataset, focusing on a specific class, such as aircraft, for AI experiments. 
+The primary aim of this repository is simplify the extraction of images and their corresponding labels from the xView dataset, focusing on a specific class, such as aircraft, for AI experiments.  ✈️ ⛵ 🚗 🏠
 
 The xView dataset offers a wealth of aerial imagery, and this repository provides a streamlined process for working with this data. By utilizing the included Colab notebook, users can efficiently extract relevant images and labels for their specific use cases.  Moreover, to enhance the exploration of the dataset, an interactive map showcasing the spatial distribution of sampled images is available through the [Google Drive link](https://drive.google.com/drive/folders/1NWVTR3cepFSr98cB202ncT_qcZjwCwSG?usp=sharing). This map, presented as an HTML file, visually represents the geographic prevalence of different objects, offering valuable insights into the dataset's distribution. People interested in this map can add their own vector data in GeoJSON format to the map and develop their own maps according to their purposes.
 
