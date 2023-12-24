@@ -1,8 +1,8 @@
 # xView Dataset Image and Label Extraction
 
-The primary aim of this repository is simplify the extraction of images and their corresponding labels from the xView dataset, focusing on a specific class, such as aircraft, for AI experiments.  ✈️ ⛵ 🚗 🏠
+The primary aim of this repository is simplify the extraction of images and their corresponding labels from the [xView dataset](http://xviewdataset.org/), focusing on a specific class, such as aircraft, for AI experiments.  🚀 ✈️ 
 
-The xView dataset offers a wealth of aerial imagery, and this repository provides a streamlined process for working with this data. By utilizing the included Colab notebook, users can efficiently extract relevant images and labels for their specific use cases.  Moreover, to enhance the exploration of the dataset, an interactive map showcasing the spatial distribution of sampled images is available through the [Google Drive link](https://drive.google.com/drive/folders/1NWVTR3cepFSr98cB202ncT_qcZjwCwSG?usp=sharing). This map, presented as an HTML file, visually represents the geographic prevalence of different objects, offering valuable insights into the dataset's distribution. People interested in this map can add their own vector data in GeoJSON format to the map and develop their own maps according to their purposes.
+[The xView dataset](http://xviewdataset.org/), owned by the [Pentagon's Defense Innovation Unit](https://www.diu.mil/), offers a wealth of aerial imagery. This repository provides a streamlined process for working with this data. By utilizing the included Colab notebook, users can efficiently extract relevant images and labels for their specific use cases.  Moreover, to enhance the exploration of the dataset, an interactive map showcasing the spatial distribution of sampled images is available through the [Google Drive link](https://drive.google.com/drive/folders/1NWVTR3cepFSr98cB202ncT_qcZjwCwSG?usp=sharing). This map, presented as an HTML file, visually represents the geographic prevalence of different objects, offering valuable insights into the dataset's distribution. People interested in this map can add their own vector data in GeoJSON format to the map and develop their own maps according to their purposes.💡 🚀
 
 [This link](https://dilsadunsal.github.io/xview_du/) also includes a map displaying the distribution of image frames from which object samples were taken. (See below)
 ![image](https://github.com/dilsadunsal/xview_du/assets/77750296/a2618c6d-dabd-44cd-9ee9-19f3c51c12b2)
@@ -10,7 +10,7 @@ The xView dataset offers a wealth of aerial imagery, and this repository provide
 
 # Repository Purpose and Functionality
 
-**Extraction:** The repository offers a specialized Colab notebook designed to streamline the extraction process. Users can obtain images and corresponding labels for a specific class, simplifying the data preparation phase for various computer vision tasks.
+**Extraction:** The repository offers a specialized Colab notebook designed to streamline the extraction process. Users can obtain images and corresponding labels for a specific class, simplifying the data preparation phase for various computer vision tasks.💡
 
 **Compatibility:** The provided codes are tailored to seamlessly work with the xView dataset. While the example centers around aircraft extraction, the codes are adaptable for other classes within the dataset.
 
