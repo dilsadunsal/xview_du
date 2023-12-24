@@ -35,6 +35,7 @@ The Colab notebook included in this repository is a comprehensive tool with a we
 **4. Cloud-Based Testing:** The notebook includes sections specifically designed for testing code snippets with cloud-based data, enhancing flexibility and validation capabilities.
 
 **Citations and Acknowledgments**
+
 If you incorporate the xView dataset into your research or development projects, kindly reference the following paper:
 [D. Lam, R. Kuzma, K. McGee, S. Dooley, M. Laielli, M. Klaric, Y. Bulatov, and B. McCord, ''XView: Objects in context in overhead imagery,'' 2018, arXiv:1802.07856.](https://arxiv.org/pdf/1802.07856.pdf)
 
